@@ -1,0 +1,39 @@
+{
+  "clientId": "1544677045265506316",
+  "guildId": "1554167111994187897",
+
+  "defaultColor": "#5865F2",
+
+  "colors": {
+    "success": "#57F287",
+    "error": "#ED4245",
+    "info": "#5865F2",
+    "warning": "#FEE75C"
+  },
+
+  "footer": "TAH | Turkish Armed Forces • Karargâh",
+  "prefixTag": "・",
+
+  "databaseFile": "./data/database.json",
+
+  "logChannelName": "mod-log",
+
+  "quarantineRoleName": "Karantina",
+
+  "backupFolder": "./data/backups",
+
+  "voiceChannelId": "1554240694955147274",
+
+  "robloxPlaceId": "",
+
+  "pasaOto": {
+    "aktif": true,
+    "kanallar": [
+      "1554167114171158625"
+    ],
+    "kullanicilar": [
+      "1487471165025947843",
+      "1422692929184595998"
+    ]
+  }
+}

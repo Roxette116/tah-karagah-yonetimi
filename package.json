@@ -1,0 +1,20 @@
+{
+  "name": "tah-karargah-bot",
+  "version": "2.0.0",
+  "description": "TAH Karargah Discord.js v14 bot - moderasyon, otomasyon, Roblox aktiflik ve gelismis ticket sistemi.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "deploy": "node deploy-commands.js",
+    "deploy-start": "node deploy-commands.js && node index.js",
+    "dev": "node --watch index.js"
+  },
+  "engines": {
+    "node": ">=18.17.0"
+  },
+  "dependencies": {
+    "@discordjs/voice": "^0.19.0",
+    "discord.js": "^14.25.1",
+    "dotenv": "^16.6.1"
+  }
+}
